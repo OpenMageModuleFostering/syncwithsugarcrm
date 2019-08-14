@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>SyncwithSugarCrm</name>
+    <version>1.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension would post real time leads from magento to sugarcrm automatically. This extension also has the capability to transfer abandoned shopping carts from Magento to sugarcrm as opportunities which would allow your sales team to track the opportunity and convert to a sale. We also have a feature where once an opportunity is converted to a sale in sugarcrm, it can create an order in magento. Please contact us at 302-355-0449 for further details or email me directly at _mailto:info@thylaksoft.com and _mailto:buyan@talktoaprogrammer.com for further information.</summary>
+    <description>This extension would post real time leads from magento to sugarcrm automatically. This extension also has the capability to transfer abandoned shopping carts from Magento to sugarcrm as opportunities which would allow your sales team to track the opportunity and convert to a sale. We also have a feature where once an opportunity is converted to a sale in sugarcrm, it can create an order in magento. Please contact us at 302-355-0449 for further details or email me directly at _mailto:info@thylaksoft.com and _mailto:buyan@talktoaprogrammer.com for further information.</description>
+    <notes>This extension would post real time leads from magento to sugarcrm automatically. This extension also has the capability to transfer abandoned shopping carts from Magento to sugarcrm as opportunities which would allow your sales team to track the opportunity and convert to a sale. We also have a feature where once an opportunity is converted to a sale in sugarcrm, it can create an order in magento. Please contact us at 302-355-0449 for further details or email me directly at _mailto:info@thylaksoft.com and _mailto:buyan@talktoaprogrammer.com for further information.</notes>
+    <authors><author><name>thylaksoft</name><user>auto-converted</user><email>buyan@talktoaprogrammer.com</email></author></authors>
+    <date>2010-06-28</date>
+    <time>13:16:57</time>
+    <contents><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="magesugar.xml" hash="aae3ce1f3b31ab39d80fba64cc5dd993"/></dir><dir name="template"><dir name="magesugar"><file name="magesugar.phtml" hash="429c3a564f4a5bf897a40e7c6ad5cbb9"/><file name="thanks.phtml" hash="7c8b7c3e897b44d6d8789524f94e252d"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Thylak_Magesugar.xml" hash="71d6edf19b76a4b4ee50ec9b89cce381"/></dir></target><target name="magelocal"><dir name="Thylak"><dir name="Magesugar"><dir name="Block"><dir name="Adminhtml"><dir name="Magesugar"><file name="Magesugar.php" hash="a723ceb2896f4ebbc40dc263a1ae1966"/><file name="Thanks.php" hash="1cbdd65065b3933f0016546b13b233d8"/></dir></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="MagesugarController.php" hash="e1918d5754c09374030da665e9e70339"/></dir></dir><dir name="etc"><file name="config.xml" hash="547f073f43791e51ff7fa4122372b428"/></dir><dir name="Helper"><file name="Data.php" hash="5b4e970625ab6139c2d349caa878372a"/></dir><dir name="Model"><file name="Magesugar.php" hash="9e606804822d538837fad1c5a7910be8"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
